@@ -1,4 +1,4 @@
-#README
+##README
 
 ##To use this app; with rails server running:
 
